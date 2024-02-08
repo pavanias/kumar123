@@ -4,6 +4,7 @@ public class pavan.java
 	{ 
 		System.out.println("hello tumkur,mysore");
 		System.out.println("hello tumkur,mysore");
+		System.out.println("hello ,banglore");
 	}
 }
 
